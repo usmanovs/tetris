@@ -1,0 +1,5 @@
+{
+  "name": "Neon Tetris",
+  "description": "A sleek, modern Tetris clone with neon aesthetics and smooth controls.",
+  "requestFramePermissions": ["microphone"]
+}
